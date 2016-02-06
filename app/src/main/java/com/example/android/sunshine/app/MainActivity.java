@@ -23,6 +23,7 @@ public class MainActivity extends ActionBarActivity {
         }
 
         // super comment
+        // druhy super comment
     }
 
     @Override
